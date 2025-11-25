@@ -15,3 +15,4 @@ pip install -r requirements.txt
 #   data/raw/viirs_locals_monthly.tif
 
 python run_pipeline.py
+
