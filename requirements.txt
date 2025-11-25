@@ -1,1 +1,5 @@
-tbd
+numpy
+pandas
+matplotlib
+rasterio
+pytest
